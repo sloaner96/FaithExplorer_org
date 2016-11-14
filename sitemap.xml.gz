@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+
+   <url>
+      <loc>http://www.faithExplorer.org/</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/index.cfm</loc>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/Ourfaith.cfm?type=A</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/Ourfaith.cfm?type=B</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/Ourfaith.cfm?type=M</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/Ourfaith.cfm?type=W</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/Ourfaith.cfm?type=E</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/Links.cfm</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>Daily</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/ContactUs.cfm</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>Monthly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.faithExplorer.org/FindAChurch.cfm</loc>
+      <lastmod>2005-10-10</lastmod>
+      <changefreq>Monthly</changefreq>
+   </url>   
+</urlset>
+
